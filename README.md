@@ -8,4 +8,12 @@
 - 参考仓库: [点我前往](https://github.com/bixinian/Simone-competition/tree/main)
 - SimOne 库文档: [点我前往](https://simone-docs.51sim.com/)
 
+## 计划实现的功能
+
+1. **AEB**(*Automatic Emergency Braking*): 自动紧急制动系统
+2. **AVP**(*Autonomous Valet Parking*): 泊车/停车
+3. **LKA**(*Lane Keeping Assistance*): 车道保持辅助系统 
+4. **TC**(*TrajectoryControl*): 轨迹控制
+
+
 
